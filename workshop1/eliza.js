@@ -29,7 +29,9 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Wadup",
+    "Yeoooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+    "Shut up",
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -53,28 +55,28 @@ var rules = {
     "Does thinking of ~y bring anything else to mind?",
     "What else do you remember?",
     "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
+    "What in the present moose reminds you of ~y?",
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
+    "aaaaaargrh?",
     "Why do you think I should recall ~y now?",
     "What about ~y?",
-    "You mentioned ~y",
+    "NO!!",
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
-    "Why do you want ~y?",
+    "word",
     "Suppose you got ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
+    "I hate ~y?",
     "Why do you need ~y?",
     "Suppose you got ~y soon.",
   ],
   "~*x if ~*y": [
     "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
+    "word",
     "What do you think about ~y?",
     "Really--if ~y?",
   ],
